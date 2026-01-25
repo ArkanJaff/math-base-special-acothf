@@ -47,9 +47,7 @@
   },
   "devDependencies": {
     "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
-    "@stdlib/constants-float32-eps": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
-    "@stdlib/math-base-special-abs": "^0.2.2",
     "@stdlib/number-float32-base-assert-is-almost-same-value": "github:stdlib-js/number-float32-base-assert-is-almost-same-value#main",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.1",
@@ -98,10 +96,10 @@
   "__stdlib__": {
     "scaffold": {
       "$schema": "math/base@v1.0",
-      "base_alias": "acothf",
+      "base_alias": "acoth",
       "alias": "acothf",
-      "pkg_desc": "compute the inverse hyperbolic cotangent of a single-precision floating-point number.",
-      "desc": "computes the inverse hyperbolic cotangent of a single-precision floating-point number.",
+      "pkg_desc": "compute the inverse hyperbolic cotangent of a single-precision floating-point number",
+      "desc": "computes the inverse hyperbolic cotangent of a single-precision floating-point number",
       "short_desc": "inverse hyperbolic cotangent",
       "parameters": [
         {
@@ -178,7 +176,7 @@
         "angle"
       ],
       "extra_keywords": [
-        "math.atanhf"
+        "math.atanh"
       ]
     }
   },
